@@ -1,7 +1,7 @@
 # monthly_sales_analysis
 Data Analytics project showcasing monthly sales analysis using python, sql and power Bi
 
-![Alt Text](https://github.com/username/repo-name/assets/12345678/abcdefg.png)
+![Alt Text](https://github.com/kundan351/monthly_sales_analysis/blob/b1d5cdcdd6a04198dd6816bb2b6961cc91a2d0b9/Screenshot%202026-04-19%20211457.png)
 
 
 # 📌 Overview
