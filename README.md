@@ -1,6 +1,9 @@
 # monthly_sales_analysis
 Data Analytics project showcasing monthly sales analysis using python, sql and power Bi
 
+![Alt Text](https://github.com/username/repo-name/assets/12345678/abcdefg.png)
+
+
 # 📌 Overview
 This project demonstrates a complete data analytics pipeline starting from a messy raw Excel dataset. The workflow includes data cleaning in Python (Pandas), pushing the cleaned dataset into SQL, and building interactive Power BI dashboards to uncover insights.
 
