@@ -41,14 +41,14 @@ Interactive Power BI dashboard for visualization
 Demonstrates ability to handle end‑to‑end analytics workflow
 
 # ▶️ How to Run
-Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/kundan351/monthly_sales_analysis.git
 cd monthly_sales_analysis
 ```
 
- **Open Cleaning.ipynb notebook**
+2. **Open Cleaning.ipynb notebook**
 
     This file contains:
 
